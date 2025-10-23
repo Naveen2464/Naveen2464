@@ -52,7 +52,7 @@
 
 ## 🌐 Connect with Me
 - 📫 Email: [naveenbg1525@gmail.com](mailto:your.email@example.com)  
-- 💼 LinkedIn: [https://in.linkedin.com/in/naveenbg7975](https://linkedin.com/in/yourprofile)  
+- 💼 LinkedIn: [linkedin.com/in/Naveen G](https://in.linkedin.com/in/naveenbg7975)   
 - 🐙 GitHub: [github.com/Naveen2464](https://github.com/yourusername)  
 
 ---
