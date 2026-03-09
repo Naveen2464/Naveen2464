@@ -38,7 +38,7 @@
 ---
 
 ## 🚀 Current Projects
-- **Hand Gesture Controlled Navigation System** – *In Progress*  
+- **Hand Gesture Controlled Navigation System** – *Completed *  
   _Enhancing Human-Computer Interaction (HCI) using Python and OpenCV_
 
 ---
