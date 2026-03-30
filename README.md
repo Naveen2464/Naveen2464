@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D7?logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D7?logo=visual-studio-code&logoColor=white" alt="VS Code" />****
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
  <img src="https://img.shields.io/badge/Django-0C4B8E?logo=django&logoColor=white" alt="Django" />
 </p>
@@ -39,9 +39,11 @@
 ---
 
 ## 🚀 Current Projects
-- **Hand Gesture Controlled Navigation System** – *Completed *  
+- **1 .Hand Gesture Controlled Navigation System** – **Completed**
   _Enhancing Human-Computer Interaction (HCI) using Python and OpenCV_
 
+
+  **2.Design and Implementation of Agentic AI-Based Self-Healing and API Monitoring System**  -inprogess
 ---
 
 ## 📚 Currently Learning
