@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Naveen Gurikar
+# 👋 Hi, I'm Naveen B Gurikar
 
 🎓 **Computer Science Engineering Student**  
 💡 Passionate about technology, coding, and solving real-world problems.  
@@ -15,14 +15,16 @@
 ---
 
 ## 💻 Technical Skills
-- **Programming Languages:** Python, Java, C  
-- **Web Development:** HTML, CSS, JavaScript  
-- **Database:** MySQL  
-- **Tools & Platforms:** VS Code, Git & GitHub, IntelliJ IDEA, XAMPP, Canva, Arduino IDE  
+- **Languages:** Python, Java, C, JavaScript
+- **Frontend:** HTML, CSS, React.js
+- **Backend:** Node.js, Django, Flask
+- **Database:** MySQL, MongoDB
+- **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ IDEA, XAMPP, Docker, Canva, Arduino IDE
+
 
 ---
 
-## 🛠️ Languages & Tools (Badges)
+## 🛠️ Languages & Tools 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" />
@@ -34,6 +36,10 @@
   <img src="https://img.shields.io/badge/VS_Code-0078D7?logo=visual-studio-code&logoColor=white" alt="VS Code" />****
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
  <img src="https://img.shields.io/badge/Django-0C4B8E?logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
 ---
@@ -43,7 +49,7 @@
   _Enhancing Human-Computer Interaction (HCI) using Python and OpenCV_
 
 
-  **2.Design and Implementation of Agentic AI-Based Self-Healing and API Monitoring System**  -inprogess
+  **2.Design and Implementation of Agentic-AI-Based-Penetration-Testing-System**  -inprogess
 ---
 
 ## 📚 Currently Learning
