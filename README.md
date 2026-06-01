@@ -49,7 +49,8 @@
  _Enhancing Human-Computer Interaction (HCI) using Python and OpenCV_
 
 
-  **2.Design and Implementation of Agentic-AI-Based-Penetration-Testing-System**  -inprogess
+  **2.Design and Implementation of Agentic-AI-Based-Penetration-Testing-System**  -**completed**
+  
 ---
 
 ## 📚 Currently Learning
